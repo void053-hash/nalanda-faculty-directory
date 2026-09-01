@@ -7,6 +7,7 @@ import pandas as pd
 
 from src.config import OUTPUT_EXCEL_FILE, ENRICHED_FACULTY_FILE
 from src.pipeline import run_pipeline
+from src.exporter import export_to_excel
 
 # Configure Streamlit Page
 st.set_page_config(
@@ -260,6 +261,23 @@ def load_directory_data(_mtime: float = 0.0) -> List[Dict[str, Any]]:
         return res.get("records", [])
 
 
+def get_excel_bytes(faculty_list: List[Dict[str, Any]]) -> bytes:
+    """Returns binary bytes of the Excel directory, ensuring fresh valid export."""
+    if OUTPUT_EXCEL_FILE.exists():
+        try:
+            with open(OUTPUT_EXCEL_FILE, "rb") as f:
+                content = f.read()
+                if len(content) > 100:
+                    return content
+        except Exception:
+            pass
+            
+    # Generate Excel if not found
+    export_to_excel(faculty_list, output_path=OUTPUT_EXCEL_FILE)
+    with open(OUTPUT_EXCEL_FILE, "rb") as f:
+        return f.read()
+
+
 def get_initials(name: str) -> str:
     """Extracts 2-letter initials from name."""
     parts = [p for p in name.replace("Prof.", "").replace("Dr.", "").replace("(", "").replace(")", "").split() if p]
@@ -271,6 +289,10 @@ def get_initials(name: str) -> str:
 
 
 def main():
+    # Load Data First
+    mtime = ENRICHED_FACULTY_FILE.stat().st_mtime if ENRICHED_FACULTY_FILE.exists() else 0.0
+    faculty_data = load_directory_data(_mtime=mtime)
+
     # Sidebar
     with st.sidebar:
         st.image("https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Nalanda_University_Logo.svg/240px-Nalanda_University_Logo.svg.png", width=120) if False else None
@@ -282,15 +304,16 @@ def main():
         
         # Download Excel
         st.markdown("#### 📥 Offline Export")
-        if OUTPUT_EXCEL_FILE.exists():
-            with open(OUTPUT_EXCEL_FILE, "rb") as f:
-                st.download_button(
-                    label="📊 Download Excel Directory (.xlsx)",
-                    data=f,
-                    file_name="nalanda_faculty_directory.xlsx",
-                    mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-                    use_container_width=True
-                )
+        if faculty_data:
+            excel_bytes = get_excel_bytes(faculty_data)
+            st.download_button(
+                label="📊 Download Excel Directory (.xlsx)",
+                data=excel_bytes,
+                file_name="nalanda_faculty_directory.xlsx",
+                mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                use_container_width=True,
+                key="sidebar_download_excel"
+            )
         else:
             st.warning("Excel file not generated yet. Run pipeline below.")
             
@@ -324,9 +347,6 @@ def main():
     </div>
     """, unsafe_allow_html=True)
 
-    # Load Data
-    mtime = ENRICHED_FACULTY_FILE.stat().st_mtime if ENRICHED_FACULTY_FILE.exists() else 0.0
-    faculty_data = load_directory_data(_mtime=mtime)
     if not faculty_data:
         st.error("No faculty records available. Please run the pipeline from the sidebar.")
         return
@@ -416,7 +436,19 @@ def main():
     elif sort_by == "Name (A-Z)":
         filtered_data.sort(key=lambda x: x.get("name", ""))
 
-    st.markdown(f"**Showing {len(filtered_data)} of {total_faculty} Faculty Profiles**")
+    col_count, col_dl = st.columns([3, 1])
+    with col_count:
+        st.markdown(f"**Showing {len(filtered_data)} of {total_faculty} Faculty Profiles**")
+    with col_dl:
+        excel_bytes = get_excel_bytes(faculty_data)
+        st.download_button(
+            label="📥 Download Excel (.xlsx)",
+            data=excel_bytes,
+            file_name="nalanda_faculty_directory.xlsx",
+            mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            use_container_width=True,
+            key="main_download_excel"
+        )
     st.divider()
 
     if not filtered_data:
