@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 🏛️ Nalanda University - Academic Faculty Directory
+=======
+﻿# 🏛️ Nalanda University - Academic Faculty Directory
+>>>>>>> c5fdf8a (feat: Nalanda University Academic Faculty Directory and Streamlit Dashboard)
 
 > An automated data aggregation pipeline and interactive web intelligence dashboard developed for the **Nalanda University AI Club** to connect students with faculty for research mentorship, thesis guidance, and academic proceedings.
 

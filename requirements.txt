@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 playwright>=1.40.0
+=======
+﻿playwright>=1.40.0
+>>>>>>> c5fdf8a (feat: Nalanda University Academic Faculty Directory and Streamlit Dashboard)
 beautifulsoup4>=4.12.0
 pyalex>=0.14.0
 requests>=2.31.0

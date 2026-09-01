@@ -1,0 +1,575 @@
+[
+  {
+    "name": "Abhay Kumar Singh",
+    "title": "Prof. (Dr.) Abhay Kumar Singh",
+    "designation": "Professor & Dean",
+    "department": "School of Historical Studies",
+    "email": "aksingh@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-historical-studies/faculty/",
+    "bio": "Specializes in Ancient Indian History, Archaeology, Epigraphy, and Maritime Trade Routes across the Indian Ocean.",
+    "research_interests": [
+      "Ancient Indian History",
+      "Archaeology",
+      "Maritime Trade",
+      "Numismatics",
+      "Epigraphy"
+    ]
+  },
+  {
+    "name": "Rajeev Ranjan Chaturvedy",
+    "title": "Dr. Rajeev Ranjan Chaturvedy",
+    "designation": "Associate Professor",
+    "department": "School of International Relations and Peace Studies",
+    "email": "rchaturvedy@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-international-relations-and-peace-studies/faculty/",
+    "bio": "Expert in Indo-Pacific Geopolitics, Maritime Security, Belt and Road Initiative, and South Asian Foreign Policy.",
+    "research_interests": [
+      "Indo-Pacific Geopolitics",
+      "Maritime Security",
+      "China-India Relations",
+      "Regional Integration"
+    ]
+  },
+  {
+    "name": "Elora Tribedy",
+    "title": "Dr. Elora Tribedy",
+    "designation": "Associate Professor",
+    "department": "School of Historical Studies",
+    "email": "etribedy@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-historical-studies/faculty/",
+    "bio": "Researches Medieval Indian History, Agrarian Systems, Urban Centers, and Social History of Bengal.",
+    "research_interests": [
+      "Medieval Indian History",
+      "Agrarian History",
+      "Urbanization",
+      "Regional Historiography"
+    ]
+  },
+  {
+    "name": "Kashshaf Ghani",
+    "title": "Dr. Kashshaf Ghani",
+    "designation": "Assistant Professor",
+    "department": "School of Historical Studies",
+    "email": "kghani@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-historical-studies/faculty/",
+    "bio": "Researches Sufism in South Asia, Indo-Persian Culture, Medieval Religious Networks, and Ritual Practices.",
+    "research_interests": [
+      "Sufism",
+      "Medieval South Asia",
+      "Indo-Persian History",
+      "Sacred Networks"
+    ]
+  },
+  {
+    "name": "Tosabanta Padhan",
+    "title": "Dr. Tosabanta Padhan",
+    "designation": "Assistant Professor",
+    "department": "School of Historical Studies",
+    "email": "tpadhan@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-historical-studies/faculty/",
+    "bio": "Specializes in Geoarchaeology, Prehistoric Archaeology, Paleolithic Tool Typology, and Quaternary Geology.",
+    "research_interests": [
+      "Geoarchaeology",
+      "Prehistory",
+      "Lithic Technology",
+      "Quaternary Environments"
+    ]
+  },
+  {
+    "name": "Satyanarayan Shashtri",
+    "title": "Dr. Satyanarayan Shashtri",
+    "designation": "Associate Professor & Dean In-Charge",
+    "department": "School of Ecology and Environment Studies",
+    "email": "sshashtri@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-ecology-and-environment-studies/faculty/",
+    "bio": "Expertise in Environmental Chemistry, Atmospheric Sciences, Aerosol Dynamics, and Climate Change mitigation strategies.",
+    "research_interests": [
+      "Environmental Chemistry",
+      "Air Pollution",
+      "Atmospheric Aerosols",
+      "Climate Change"
+    ]
+  },
+  {
+    "name": "Deepak Kumar",
+    "title": "Prof. (Dr.) Deepak Kumar",
+    "designation": "Professor",
+    "department": "School of Ecology and Environment Studies",
+    "email": "dkumar@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-ecology-and-environment-studies/faculty/",
+    "bio": "Pioneering scholar in History of Science, Technology and Medicine in India, Colonial Science, and Environmental Thought.",
+    "research_interests": [
+      "History of Science",
+      "Colonial Environmental History",
+      "Science and Society",
+      "Medicine in India"
+    ]
+  },
+  {
+    "name": "Kishore Kumar Dhavala",
+    "title": "Dr. Kishore Kumar Dhavala",
+    "designation": "Associate Professor",
+    "department": "School of Ecology and Environment Studies",
+    "email": "kdhavala@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-ecology-and-environment-studies/faculty/",
+    "bio": "Focuses on Climate Change Economics, Renewable Energy Policy, Resource Economics, and Computable General Equilibrium (CGE) modeling.",
+    "research_interests": [
+      "Climate Change Economics",
+      "Renewable Energy Policy",
+      "CGE Modeling",
+      "Resource Management"
+    ]
+  },
+  {
+    "name": "Sayan Bhattacharya",
+    "title": "Dr. Sayan Bhattacharya",
+    "designation": "Assistant Professor",
+    "department": "School of Ecology and Environment Studies",
+    "email": "sbhattacharya@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-ecology-and-environment-studies/faculty/",
+    "bio": "Specializes in Ecotoxicology, Bioremediation of Heavy Metals, Microplastics, and Wetland Ecology.",
+    "research_interests": [
+      "Ecotoxicology",
+      "Bioremediation",
+      "Wetland Conservation",
+      "Microplastics Pollution"
+    ]
+  },
+  {
+    "name": "Moonmoon Hiloidhari",
+    "title": "Dr. Moonmoon Hiloidhari",
+    "designation": "Assistant Professor",
+    "department": "School of Ecology and Environment Studies",
+    "email": "mhiloidhari@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-ecology-and-environment-studies/faculty/",
+    "bio": "Researches Bioenergy, Biomass Resource Assessment, Life Cycle Assessment (LCA), and Circular Bioeconomy.",
+    "research_interests": [
+      "Bioenergy Systems",
+      "Life Cycle Assessment",
+      "Circular Bioeconomy",
+      "Carbon Footprint"
+    ]
+  },
+  {
+    "name": "Dev Anand Thakur",
+    "title": "Dr. Dev Anand Thakur",
+    "designation": "Assistant Professor",
+    "department": "School of Ecology and Environment Studies",
+    "email": "dthakur@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-ecology-and-environment-studies/faculty/",
+    "bio": "Focuses on Landscape Ecology, GIS and Remote Sensing applications in Biodiversity Monitoring and Wildlife Habitat Assessment.",
+    "research_interests": [
+      "Landscape Ecology",
+      "GIS & Remote Sensing",
+      "Biodiversity Conservation",
+      "Habitat Modeling"
+    ]
+  },
+  {
+    "name": "Poulami Datta",
+    "title": "Dr. Poulami Datta",
+    "designation": "Assistant Professor",
+    "department": "School of Ecology and Environment Studies",
+    "email": "pdatta@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-ecology-and-environment-studies/faculty/",
+    "bio": "Expert in Hydrogeology, Groundwater Quality Assessment, Isotope Hydrology, and Watershed Management.",
+    "research_interests": [
+      "Groundwater Hydrology",
+      "Water Quality Modeling",
+      "Isotope Geochemistry",
+      "Watershed Ecology"
+    ]
+  },
+  {
+    "name": "Goutam Choudhury",
+    "title": "Dr. Goutam Choudhury",
+    "designation": "Assistant Professor",
+    "department": "School of Ecology and Environment Studies",
+    "email": "gchoudhury@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-ecology-and-environment-studies/faculty/",
+    "bio": "Specializes in Forest Ecology, Carbon Sequestration, Dendrochronology, and Soil Organic Matter Dynamics.",
+    "research_interests": [
+      "Forest Ecology",
+      "Carbon Sequestration",
+      "Soil Biogeochemistry",
+      "Climate Resilient Forestry"
+    ]
+  },
+  {
+    "name": "Godabarisha Mishra",
+    "title": "Prof. Godabarisha Mishra",
+    "designation": "Professor",
+    "department": "School of Buddhist Studies, Philosophy & Comparative Religions",
+    "email": "gmishra@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-buddhist-studies-philosophy-and-comparative-religions/faculty/",
+    "bio": "Renowned scholar of Advaita Vedanta, Buddhist Epistemology, Sanskrit Philosophy, and Comparative Religion.",
+    "research_interests": [
+      "Advaita Vedanta",
+      "Buddhist Epistemology",
+      "Comparative Religion",
+      "Indian Philosophy",
+      "Sanskrit Hermeneutics"
+    ]
+  },
+  {
+    "name": "Pranshu Samdarshi",
+    "title": "Dr. Pranshu Samdarshi",
+    "designation": "Associate Professor",
+    "department": "School of Buddhist Studies, Philosophy & Comparative Religions",
+    "email": "psamdarshi@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-buddhist-studies-philosophy-and-comparative-religions/faculty/",
+    "bio": "Specializes in Vajrayana Buddhist Art & Iconography, Tantric Buddhist Traditions of Ancient Nalanda, and Sanskrit/Tibetan Manuscripts.",
+    "research_interests": [
+      "Buddhist Art & Iconography",
+      "Vajrayana Buddhism",
+      "Tantric Manuscripts",
+      "Tibetan Studies"
+    ]
+  },
+  {
+    "name": "Brenda Huong Xuan Ly",
+    "title": "Dr. Brenda Huong Xuan Ly",
+    "designation": "Assistant Professor",
+    "department": "School of Buddhist Studies, Philosophy & Comparative Religions",
+    "email": "bly@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-buddhist-studies-philosophy-and-comparative-religions/faculty/",
+    "bio": "Researches Mahayana Buddhism, Vietnamese Buddhist History, Buddhist Meditation Traditions, and Engaged Buddhism in Asia.",
+    "research_interests": [
+      "Mahayana Buddhism",
+      "Vietnamese Buddhism",
+      "Engaged Buddhism",
+      "Buddhist Ethics"
+    ]
+  },
+  {
+    "name": "Rajeshwar Mukherjee",
+    "title": "Dr. Rajeshwar Mukherjee",
+    "designation": "Assistant Professor",
+    "department": "School of Buddhist Studies, Philosophy & Comparative Religions",
+    "email": "rmukherjee@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-buddhist-studies-philosophy-and-comparative-religions/faculty/",
+    "bio": "Specializes in Classical Yoga Philosophy, Samkhya Thought, Vedic Hermeneutics, and Mind-Body Epistemology.",
+    "research_interests": [
+      "Yoga Philosophy",
+      "Samkhya Epistemology",
+      "Vedic Hermeneutics",
+      "Mind Sciences in Indic Thought"
+    ]
+  },
+  {
+    "name": "Geshe Lungtok Sherap",
+    "title": "Geshe Lungtok Sherap",
+    "designation": "Teaching Associate",
+    "department": "School of Buddhist Studies, Philosophy & Comparative Religions",
+    "email": "lsherap@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-buddhist-studies-philosophy-and-comparative-religions/faculty/",
+    "bio": "Traditional Geshe Lharampa specializing in Tibetan Buddhist Dialectics, Madhyamaka Philosophy, and Pramana Epistemology.",
+    "research_interests": [
+      "Tibetan Buddhist Philosophy",
+      "Madhyamaka",
+      "Buddhist Logic & Dialectics",
+      "Pramana"
+    ]
+  },
+  {
+    "name": "D. Venkat Rao",
+    "title": "Prof. D. Venkat Rao",
+    "designation": "Professor & Dean",
+    "department": "School of Languages and Literature / Humanities",
+    "email": "dvenkatrao@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-languages-and-literature-humanities/faculty/",
+    "bio": "Scholar of Critical Humanities, Deconstruction, Mnemonic Traditions, Literary Theory, and Indic Cultural Forms.",
+    "research_interests": [
+      "Critical Humanities",
+      "Mnemonic Traditions",
+      "Literary Theory",
+      "Cultural Translation",
+      "Deconstruction"
+    ]
+  },
+  {
+    "name": "Chandra S. Nuthalapati",
+    "title": "Prof. Chandra S. Nuthalapati",
+    "designation": "Professor",
+    "department": "School of Economics",
+    "email": "csnuthalapati@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-economics/faculty/",
+    "bio": "Pioneering researcher in Agricultural Economics, Agrifood Supply Chain Modernization, Technology Adoption, and Rural Development.",
+    "research_interests": [
+      "Agricultural Economics",
+      "Agrifood Supply Chains",
+      "Digital Agriculture",
+      "Rural Transformation"
+    ]
+  },
+  {
+    "name": "Priyanka Dey",
+    "title": "Dr. Priyanka Dey",
+    "designation": "Associate Professor",
+    "department": "School of Languages and Literature / Humanities",
+    "email": "pdey@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-languages-and-literature-humanities/faculty/",
+    "bio": "Researches 19th & 20th-century British and Postcolonial Literature, Gender Studies, Print Culture, and South Asian Literatures.",
+    "research_interests": [
+      "Postcolonial Literature",
+      "Gender & Sexuality Studies",
+      "Print Culture",
+      "South Asian Anglophone Fiction"
+    ]
+  },
+  {
+    "name": "Prasad T.",
+    "title": "Dr. Prasad T.",
+    "designation": "Associate Professor",
+    "department": "School of Languages and Literature / Humanities",
+    "email": "prasad@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-languages-and-literature-humanities/faculty/",
+    "bio": "Specializes in Dravidian Linguistics, Comparative Indian Literature, Translation Poetics, and Folklore Studies.",
+    "research_interests": [
+      "Dravidian Linguistics",
+      "Translation Studies",
+      "Comparative Indian Literature",
+      "Folklore"
+    ]
+  },
+  {
+    "name": "Rajeshwar Kumar",
+    "title": "Dr. Rajeshwar Kumar",
+    "designation": "Associate Professor",
+    "department": "School of Languages and Literature / Humanities",
+    "email": "rkumar@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-languages-and-literature-humanities/faculty/",
+    "bio": "Focuses on Indian Writing in English, Subaltern Studies, Cultural Studies, and Modern Drama.",
+    "research_interests": [
+      "Indian English Literature",
+      "Subaltern Theory",
+      "Cultural Studies",
+      "Modern Drama"
+    ]
+  },
+  {
+    "name": "Mir Nurul Islam",
+    "title": "Dr. Mir Nurul Islam",
+    "designation": "Assistant Professor",
+    "department": "School of Languages and Literature / Humanities",
+    "email": "mnislam@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-languages-and-literature-humanities/faculty/",
+    "bio": "Researches Indo-Persian Literature, Comparative Mystical Poetry, Urdu Aesthetics, and Translation Theory.",
+    "research_interests": [
+      "Persian Literature",
+      "Urdu Aesthetics",
+      "Mystical Poetry",
+      "Comparative Translation"
+    ]
+  },
+  {
+    "name": "Smita Singh",
+    "title": "Dr. Smita Singh",
+    "designation": "Assistant Professor",
+    "department": "School of Languages and Literature / Humanities",
+    "email": "ssingh@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-languages-and-literature-humanities/faculty/",
+    "bio": "Expert in Applied Linguistics, Second Language Acquisition, Corpus Linguistics, and Academic Writing Pedagogy.",
+    "research_interests": [
+      "Applied Linguistics",
+      "Corpus Linguistics",
+      "SLA",
+      "Pedagogical Grammar"
+    ]
+  },
+  {
+    "name": "Dasarathi Padhan",
+    "title": "Dr. Dasarathi Padhan",
+    "designation": "Assistant Professor",
+    "department": "School of Economics",
+    "email": "dpadhan@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-economics/faculty/",
+    "bio": "Specializes in Environmental Accounting, Energy Economics, Climate Mitigation Policy, and Applied Macro-Econometrics.",
+    "research_interests": [
+      "Environmental Accounting",
+      "Energy Economics",
+      "Econometric Modeling",
+      "Natural Capital Valuation"
+    ]
+  },
+  {
+    "name": "Sushma Devi",
+    "title": "Dr. Sushma Devi",
+    "designation": "Assistant Professor",
+    "department": "School of Languages and Literature / Humanities",
+    "email": "sdevi@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-languages-and-literature-humanities/faculty/",
+    "bio": "Specializes in Modern Hindi Literature, Women's Autobiographies, Folk Traditions of Bihar, and Dalit Aesthetics.",
+    "research_interests": [
+      "Hindi Literature",
+      "Dalit Aesthetics",
+      "Women's Writing",
+      "Bhojpuri Folk Traditions"
+    ]
+  },
+  {
+    "name": "Saurav Kumar",
+    "title": "Dr. Saurav Kumar",
+    "designation": "Assistant Professor",
+    "department": "School of Languages and Literature / Humanities",
+    "email": "skumar@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-languages-and-literature-humanities/faculty/",
+    "bio": "Researches Paninian Sanskrit Grammar, Computational Linguistics for Indic Languages, and Indian Poetics.",
+    "research_interests": [
+      "Sanskrit Grammar",
+      "Computational Linguistics",
+      "Indic Poetics",
+      "Philosophy of Language"
+    ]
+  },
+  {
+    "name": "Shruti Amar",
+    "title": "Dr. Shruti Amar",
+    "designation": "Assistant Professor",
+    "department": "School of Languages and Literature / Humanities",
+    "email": "samar@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-languages-and-literature-humanities/faculty/",
+    "bio": "Focuses on Eco-criticism, Climate Fiction, Environmental Humanities, and Contemporary Anglophone World Literature.",
+    "research_interests": [
+      "Eco-criticism",
+      "Climate Fiction",
+      "Environmental Humanities",
+      "World Literature"
+    ]
+  },
+  {
+    "name": "Souvik Kar",
+    "title": "Dr. Souvik Kar",
+    "designation": "Assistant Professor",
+    "department": "School of Languages and Literature / Humanities",
+    "email": "skar@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-languages-and-literature-humanities/faculty/",
+    "bio": "Researches Visual Culture, Semiotics, Film Theory, Cinema of South Asia, and Digital Media Studies.",
+    "research_interests": [
+      "Film Studies",
+      "Visual Semiotics",
+      "Digital Culture",
+      "South Asian Cinema"
+    ]
+  },
+  {
+    "name": "Rimita Hom Chaudhury",
+    "title": "Dr. Rimita Hom Chaudhury",
+    "designation": "Teaching Fellow",
+    "department": "School of Economics",
+    "email": "rchaudhury@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-economics/faculty/",
+    "bio": "Researches Development Economics, International Trade Dynamics, Gender and Labor Markets in South Asia.",
+    "research_interests": [
+      "Development Economics",
+      "International Trade",
+      "Labor Economics",
+      "Gender & Development"
+    ]
+  },
+  {
+    "name": "Muneer Ahmad Magry",
+    "title": "Dr. Muneer Ahmad Magry",
+    "designation": "Assistant Professor",
+    "department": "School of Management Studies",
+    "email": "mmagry@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-management-studies/faculty/",
+    "bio": "Specializes in Sustainable Supply Chains, Agribusiness Logistics, Agri-Value Chain Optimization, and Operations Research.",
+    "research_interests": [
+      "Supply Chain Management",
+      "Agribusiness Logistics",
+      "Operations Research",
+      "Sustainable Operations"
+    ]
+  },
+  {
+    "name": "Anand Kumar",
+    "title": "Dr. Anand Kumar",
+    "designation": "Assistant Professor",
+    "department": "School of Management Studies",
+    "email": "ak@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-management-studies/faculty/",
+    "bio": "Expert in Corporate Social Responsibility (CSR), Multi-Stakeholder Governance, Social Innovation, and Sustainable Enterprise.",
+    "research_interests": [
+      "Corporate Social Responsibility",
+      "Stakeholder Governance",
+      "Social Innovation",
+      "Sustainable Business"
+    ]
+  },
+  {
+    "name": "Neeraj Singh",
+    "title": "Dr. Neeraj Singh",
+    "designation": "Assistant Professor",
+    "department": "School of Management Studies",
+    "email": "nsingh@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-management-studies/faculty/",
+    "bio": "Focuses on Sustainable Marketing, Brand Leadership, Consumer Psychology, and Digital Transformation Strategies.",
+    "research_interests": [
+      "Sustainable Marketing",
+      "Consumer Psychology",
+      "Brand Strategy",
+      "Digital Transformation"
+    ]
+  },
+  {
+    "name": "Saanjay Chaturvedi",
+    "title": "Prof. Saanjay Chaturvedi",
+    "designation": "Professor",
+    "department": "School of International Relations and Peace Studies",
+    "email": "schaturvedi@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-international-relations-and-peace-studies/faculty/",
+    "bio": "Internationally renowned scholar of Polar Geopolitics (Arctic & Antarctic), Indian Ocean Security, Critical Geopolitics, and Climate Diplomacy.",
+    "research_interests": [
+      "Polar Geopolitics",
+      "Indian Ocean Affairs",
+      "Critical Geopolitics",
+      "Climate Diplomacy"
+    ]
+  },
+  {
+    "name": "Amita Satyal",
+    "title": "Dr. Amita Satyal",
+    "designation": "Assistant Professor",
+    "department": "School of International Relations and Peace Studies",
+    "email": "asatyal@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-international-relations-and-peace-studies/faculty/",
+    "bio": "Specializes in Conflict Resolution, Himalayan Borders, Transboundary Water Governance, and Human Security in South Asia.",
+    "research_interests": [
+      "Peace & Conflict Studies",
+      "Himalayan Borderlands",
+      "Water Diplomacy",
+      "Human Security"
+    ]
+  },
+  {
+    "name": "Osmund Bopearachchi",
+    "title": "Prof. Osmund Bopearachchi",
+    "designation": "Distinguished Visiting Professor",
+    "department": "School of Archaeology",
+    "email": "obopearachchi@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-archaeology/faculty/",
+    "bio": "World-renowned numismatist and archaeologist specializing in Greco-Bactrian and Indo-Greek coins, Silk Road trade, and Gandharan Buddhist Art.",
+    "research_interests": [
+      "Ancient Numismatics",
+      "Greco-Buddhist Art",
+      "Silk Road Archaeology",
+      "Gandhara Studies"
+    ]
+  },
+  {
+    "name": "Vasant Shinde",
+    "title": "Prof. Vasant Shinde",
+    "designation": "Distinguished Visiting Professor",
+    "department": "School of Archaeology",
+    "email": "vshinde@nalandauniv.edu.in",
+    "profile_url": "https://nalandauniv.edu.in/schools/school-of-archaeology/faculty/",
+    "bio": "Eminent archaeologist led the Rakhigarhi excavations; specializes in Indus Valley Civilization, Biomolecular Archaeology, and Ancient DNA studies.",
+    "research_interests": [
+      "Harappan Archaeology",
+      "Ancient DNA Studies",
+      "Biomolecular Archaeology",
+      "Protohistoric India"
+    ]
+  }
+]
