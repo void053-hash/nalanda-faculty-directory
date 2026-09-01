@@ -1,1 +1,0 @@
-{"path": ".gitignore", "message": "Add .gitignore", "content": "\ufeff# Virtual Environment\n.venv/\nvenv/\nenv/\nENV/\n\n# Environment variables & secrets\n.env\n!.env.example\n\n# Python bytecode & cache\n__pycache__/\n*.py[cod]\n*$py.class\n.pytest_cache/\n\n# OS specific\n.DS_Store\nThumbs.db\n"}
