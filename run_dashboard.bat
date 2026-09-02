@@ -5,5 +5,5 @@ echo ================================================================
 echo   Launching Nalanda University Academic Faculty Directory...
 echo ================================================================
 echo.
-".venv\Scripts\streamlit.exe" run app.py
+".venv\Scripts\streamlit.exe" run streamlit_app.py
 pause
