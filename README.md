@@ -83,3 +83,5 @@ nalanda-faculty-directory/
 
 ## 👥 Nalanda University AI Club
 Built by the AI Club to democratize research opportunities for all undergraduate and postgraduate scholars at Nalanda University.
+
+<!-- trigger fresh commit for Vercel deployment: 2026-09-02 16:26:57 -->
