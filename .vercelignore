@@ -1,0 +1,7 @@
+﻿.venv
+requirements.txt
+streamlit_app.py
+src/
+data/
+*.bat
+build_html.py
